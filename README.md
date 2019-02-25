@@ -2,4 +2,5 @@
 
 public static void newMethod(Integer int){
   line.....
+  line
 }
